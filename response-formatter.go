@@ -8,7 +8,7 @@ type ResponseFormatter struct {
 	Data    interface{}
 }
 
-// Add message
+// Add message for v1.0.1
 const (
 	successMessage = "Success"
 	failMessage    = "Failed"
